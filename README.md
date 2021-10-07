@@ -67,7 +67,7 @@ Example: see in sample session.
 
 
 
-(Cash machine output is shown in green italics).
+(Cash machine output is shown in italics).
 
 
 

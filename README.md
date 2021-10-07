@@ -156,3 +156,23 @@ Sample Session
 <i style="color:green">USD 100 29</i>
 
 <i style="color:green">OK</i>
+        
+        
+## What should be done 
+
+- standalone console app
+
+- written in object oriented style
+
+
+## Nice to have :
+
+- logging to file
+
+- javadoc 
+
+- junit tests
+
+- maven/gradle build file 
+
+        
